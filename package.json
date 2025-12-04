@@ -1,0 +1,13 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/db_test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "mongodb": "^6.9.0"
+  }
+}
